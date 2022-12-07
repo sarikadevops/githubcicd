@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8b303c4-78d6-4880-b449-1f95a1ae7a81" name="Changes" comment="changed jdk 11">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+    <list default="true" id="b8b303c4-78d6-4880-b449-1f95a1ae7a81" name="Changes" comment="code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,21 +64,7 @@
       <option name="project" value="LOCAL" />
       <updated>1670390094604</updated>
     </task>
-    <task id="LOCAL-00002" summary="changed jdk version">
-      <created>1670391554369</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670391554369</updated>
-    </task>
-    <task id="LOCAL-00003" summary="changed jdk 11">
-      <created>1670391676331</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1670391676331</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,8 +92,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code" />
-    <MESSAGE value="changed jdk version" />
-    <MESSAGE value="changed jdk 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed jdk 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
 </project>
